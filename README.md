@@ -1,4 +1,4 @@
-# Directional Data 2024
+# Directional Data
 
 Simple data cleaning and processing steps for directional statistics research.
 
