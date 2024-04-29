@@ -16,3 +16,4 @@ apache_beam>=2.54.0
 mwparserfromhell>=0.6.6
 transformers>=4.38.2
 datasets>=2.18.0
+numba>=0.54.0
